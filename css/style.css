@@ -1,0 +1,14 @@
+#ul {
+    margin: 0px;
+    padding: 0px;
+}
+#ul li {
+    background-color: black;
+    width: 120px;
+    height: 60px;
+}
+#siteTitle {
+    text-align:center;
+    color:chartreuse;
+
+}
